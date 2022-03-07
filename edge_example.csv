@@ -1,0 +1,8 @@
+Id,Sentiment,Followees,Followers
+a,positive,"[b,c,d]","[c,f]"
+b,negative,[f],"[a,d]"
+c,neutral,"[a,e]","[a,f]"
+d,positive,"[b,f]","[a,f]"
+e,positive,[],[c]
+f,negative,"[a,c,d]","[b,d]"
+a,neutral,"[b,c,d]","[c,f]"
